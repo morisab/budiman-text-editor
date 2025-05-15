@@ -136,7 +136,7 @@ void smartRender() {
         printf("\n");
     }
 
-    std::string welcome = "[ WWelcome to Budiman, your friendly text editor! ]";
+    std::string welcome = "[ Welcome to Budiman, your friendly text editor! ]";
     int wpad = (termWidth - (int)welcome.size()) / 2;
     printf("\033[%d;1H", termHeight - 2);
     printf("\033[47;30m");
