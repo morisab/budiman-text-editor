@@ -5,7 +5,7 @@
 #include <sys/ioctl.h>
 #include <vector>
 #include <string>
-#include "texteditor.h"
+#include "TextEditor.h"
 
 #define CTRL_S 19
 #define CTRL_X 24
