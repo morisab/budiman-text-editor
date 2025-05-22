@@ -14,7 +14,7 @@ Budiman is a lightweight, no-nonsense text editor for your terminal. It's design
 1. **Clone the repository**
    ```bash
    git clone https://github.com/morisab/budiman-text-editor.git
-   cd budiman
+   cd budiman-text-editor
    ```
 2. **Compile the program**
 
